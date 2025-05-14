@@ -15,3 +15,15 @@
 ### -Análisis de evaluación entre meses o años Objetivo : Ver si existe algún patrón de fijación entre los meses de un año o entre los diferentes años.
 
 ### -Clusterización por patrones de temperatura Agrupar años con patrones de temperatura similares.
+
+## 👨‍💻 Autor
+
+Este proyecto fue desarrollado por **Carlos Daniel Lopez Gordillo** como parte del prototipo universitario **"Analisis del clima"** en la Universidad Nacional Rosario Castellanos, Licenciatura en Ciencias de Datos para Negocios.
+
+---
+
+## ✅ Licencia
+
+Este proyecto es de uso académico y educativo. No se autoriza su uso comercial sin consentimiento del autor.
+
+**© 2025 Carlos Daniel Lopez Gordillo**
